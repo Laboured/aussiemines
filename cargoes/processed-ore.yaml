@@ -1,0 +1,17 @@
+abbreviation: PS
+available: true
+classes: 2576
+colour: 120
+id: 1
+label: WASP
+longName: processed ore
+name: Processed Ore
+penaltyLength: 26
+penaltyLowerBound: 10
+price: 4934
+sprite:
+  filename: cargoes/processed-ore.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
