@@ -1,0 +1,46 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- WAIO
+cargoProduction:
+- WASP
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+    - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+    - 0
+  - - 0
+    - 0
+    - 0
+    - 0
+name: Iron Process Plant
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 16
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/iron-process-plant/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/iron-process-plant/1.png
+      left: -31
+      top: 0
+type: secondary
