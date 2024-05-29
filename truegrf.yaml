@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f1b5e51b
 license: CC0-1.0
+name: aussiemines
 type: industry
+url: https://github.com/Laboured/aussiemines
 version: 6
